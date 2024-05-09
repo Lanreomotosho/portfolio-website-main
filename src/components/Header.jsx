@@ -20,7 +20,7 @@ const Header = () => {
         <div className="font-bold text-2xl tracking-wide cursor-pointer flex items-center gap-1">
           <img src={logo} alt="" className="md:w-12 md:h-12 w-10 h-10" />
           <span className="text-primary hover:text-secondary md:ml-3 ml-2">
-        LANRE OMOTOSHO
+            DAVID ODULUYI
           </span>
         </div>
         {/*Menu-icon*/}

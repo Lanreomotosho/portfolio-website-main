@@ -22,7 +22,7 @@ const Home = () => {
         viewport={{ once: false, amount: 0.7 }}
       >
       <h1 className="text-primary text-5xl font-extrabold tracking-wider mb-8">
-        HEY, LANRE OMOTOSHO
+        HEY, DAVID ODULUYI
       </h1>
       <TypeAnimation
         sequence={[
